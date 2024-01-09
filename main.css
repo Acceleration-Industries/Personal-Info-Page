@@ -1,0 +1,72 @@
+.all_text h1 {
+    font-size: 25px;
+    margin-right: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+}
+
+.flexbox-item-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    margin: auto;
+    box-shadow: 0px 4px 4px;
+    border-radius: 10px;
+border-width: 637px;
+background-color: white;
+height: 387px;
+width: 660px;
+}
+
+.image_oval {
+    margin-right: 160px;
+}
+
+.button {
+    width: 80px;
+    height: 32px;
+}
+ .e.g. Stephen King {
+    font-size: 11px;
+ }
+
+h4 {
+    font-size: 11px;
+    color: gray;
+}
+
+h1 {
+    font-size: 0px;
+font: gothic;
+}
+ 
+.backdrop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 637px;
+    height: 387px; */
+    border-color: black;
+    margin: auto;
+    box-shadow: 0px 4px 4px;
+    border-radius: 10px;
+width: 991px;
+height: 561px;
+background-color: #F4EEEE;;
+}
+
+.nextstep {
+    background-color: #0C0B53;
+    color: white;
+    width: 80px;
+    height: 32px;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 3px;
+    margin-left: 160px;
+    margin-bottom: 50px;
+}
+
+.labels lab1 {
+width: 600px;
+}
